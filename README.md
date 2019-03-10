@@ -12,7 +12,7 @@ Add ``'sphinxcontrib.pdfembed'`` to the ``extensions`` list in ``conf.py``:
 
 
 ## Usage
-To obfuscate an email address use something like:
+To embed a PDF file in a page use the following:
 
     :pdfembed:`src:_static/path_to_pdf.pdf, height:1600, width:1300, align:middle`
 
