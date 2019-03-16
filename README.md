@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/SuperKogito/sphinxcontrib-pdfembed.svg)](http://hits.dwyl.io/SuperKogito/sphinxcontrib-pdfembed)
+
 #  sphinxcontrib-pdfembed
 This is the code for the sphinxcontrib.pdfembed extension, which embedds PDF files in the sphinx generated webpages.
 
